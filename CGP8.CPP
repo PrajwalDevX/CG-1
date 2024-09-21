@@ -44,7 +44,7 @@ void circlepoints(int x0, int x, int y0, int y, int xc) {
 }
 
 void main() {
-    int m[16] = {BLACK, BLUE, GREEN, CYAN, RED, MAGENTA, BROWN, LIGHTGRAY, DARKGRAY, LIGHTBLUE, LIGHTGREEN, LIGHTCYAN, LIGHTRED, LIGHTMAGENTA, YELLOW, WHITE};
+   
     int x0, y0, r, xc;
 
     cout << "Enter the value of x0 and y0: ";
